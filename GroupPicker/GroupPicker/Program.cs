@@ -13,5 +13,18 @@ namespace GroupPicker
         {
         
         }
+        public static void PickGroup(List<string> classOfStudents, int groupSize)
+        {
+            List<string> currentGroupList = new List<string> { };
+            int groupNumber = 1;
+            Random randomStudent = new Random();
+            while (studentList.Count > 0)
+            {
+
+            }
+                
+                
+            
+        }
     }
 }
